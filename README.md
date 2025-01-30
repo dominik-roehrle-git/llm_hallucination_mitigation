@@ -6,7 +6,8 @@ Please read the documentation first:
 [View PDF](https://github.com/dominik-roehrle-git/llm_hallucinations/blob/main/docs/Masterarbeit_Dominik_R%C3%B6hrle.pdf)
 
 
-To download LLMs create an account on https://huggingface.co/ \\
+To download LLMs create an account on https://huggingface.co/ 
+
 The access to Llama has to be requested first: https://huggingface.co/meta-llama and https://llama.meta.com/llama-downloads
 Also the BART-Large-MNLI model has to be downloaded: https://huggingface.co/facebook/bart-large-mnli
 
