@@ -1,7 +1,6 @@
 from create_train_dataset import DatasetBuilder, NLPProcessor
 import pandas as pd
 
-""" this file evaluates the LLMs to get the correction rates"""
 
 if __name__ == "__main__":
 
