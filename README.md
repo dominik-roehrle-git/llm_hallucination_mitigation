@@ -2,6 +2,7 @@ This is the repository for the research:
 Addressing Hallucination in Large Language Models: Detection and
 Mitigation Techniques for Claim-Based Verification
 
+Please read the documentation first:
 [View PDF](https://github.com/dominik-roehrle-git/llm_hallucinations/blob/main/docs/Masterarbeit_Dominik_R%C3%B6hrle.pdf)
 
 
