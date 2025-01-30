@@ -2,6 +2,9 @@ This is the repository for the research:
 Addressing Hallucination in Large Language Models: Detection and
 Mitigation Techniques for Claim-Based Verification
 
+[View PDF](https://github.com/dominik-roehrle-git/llm_hallucinations/blob/main/Masterarbeit_Dominik_R%C3%B6hrle.pdf)
+
+
 To download LLMs create an account on https://huggingface.co/
 Maybe the access to Llama has to be requested first: https://huggingface.co/meta-llama and https://llama.meta.com/llama-downloads
 Also the BART-Large-MNLI model has to be downloaded: https://huggingface.co/facebook/bart-large-mnli
