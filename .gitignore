@@ -7,5 +7,4 @@ api.key
 __pycache__/
 *.pth
 *.png
-*.pdf
 *.key
