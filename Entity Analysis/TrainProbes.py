@@ -31,7 +31,6 @@ def set_seed(seed_value=42):
 
 
 class ProbeNN(nn.Module):
-    """ Neural Network to train probes for the embeddings of the different layers """
     def __init__(self, input_dim):
         super(ProbeNN, self).__init__()
         self.layer1 = nn.Linear(input_dim, 256)
@@ -48,7 +47,6 @@ class ProbeNN(nn.Module):
     
 
 class TrainProbe:
-    """ Class to train the probes for the embeddings of the different layers """
     def __init__(self, dataset_names, layer, probe_method, hyperparameters):
         self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
