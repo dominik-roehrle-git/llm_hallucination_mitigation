@@ -97,7 +97,7 @@ The repository is divided into three parts:
 
 ---
 
-## Finetuning
+## Mitigation
 
 ### To recreate the dataset for finetuning (in `Mitigation/`):
 
@@ -142,8 +142,6 @@ The repository is divided into three parts:
   *(Make sure every folder of the zip is inside `Mitigation/`.)*
 
 ---
-
-## Application
 
 ### To run the application scenario (in `Mitigation/`):
 
